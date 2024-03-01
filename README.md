@@ -25,7 +25,7 @@ My name is Vasilis Tsilidis and I'm a PhD student at the [Department of Mathemat
 
 
 <div class="container">
- <img src="./pictures/julia.svg" alt="Julia" width="100">
+ <img src="./pictures/julia.svg" alt="Julia" width="120">
  <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100">
  <img src="./pictures/python.svg" alt="Python" width="100">
 </div>
