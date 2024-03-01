@@ -1,11 +1,12 @@
-### Hi there 👋
+## Hello! 🪸
 
 My name is Vasilis Tsilidis and I'm a PhD student at the [Department of Mathematics, University of Patras](https://www.upatras.gr/en/)!
 
 
-#### I speak:
-- Julia 
+### I speak:
+<img src="./pictures/julia.svg" alt="drawing" width="100"/>
 
+<img src="./pictures/python.svg" alt="drawing" width="100"/>
 
 <!--
 **TsilidisV/TsilidisV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
