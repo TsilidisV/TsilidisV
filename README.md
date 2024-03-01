@@ -1,9 +1,9 @@
-## Hello! 🪸
+# Hello! 🪸
 
 My name is Vasilis Tsilidis and I'm a PhD student at the [Department of Mathematics, University of Patras](https://www.upatras.gr/en/)!
 
 
-### I speak:
+## I speak:
 <div class="container">
  <img src="./pictures/julia.svg" alt="Julia" width="130">
  <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100">
