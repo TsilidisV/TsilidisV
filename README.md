@@ -4,9 +4,11 @@ My name is Vasilis Tsilidis and I'm a PhD student at the [Department of Mathemat
 
 
 ### I speak:
-<img src="./pictures/julia.svg" alt="drawing" width="100"/>
+<img src="./pictures/julia.svg" alt="Julia" width="100"/>
 
-<img src="./pictures/python.svg" alt="drawing" width="100"/>
+<img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100"/>
+
+<img src="./pictures/python.svg" alt="Python" width="100"/>
 
 <!--
 **TsilidisV/TsilidisV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
