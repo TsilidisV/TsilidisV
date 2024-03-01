@@ -4,26 +4,6 @@ My name is Vasilis Tsilidis and I'm a PhD student at the [Department of Mathemat
 
 
 ### I speak:
-<p float="left">
-    <img src="./pictures/julia.svg" alt="Julia" width="100"/>   
-    <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100"/>
-    <img src="./pictures/python.svg" alt="Python" width="100"/>
-</p>
-
-
- <div class="row">
-  <div class="column">
-    <img src="./pictures/julia.svg" alt="Julia" width="100">
-  </div>
-  <div class="column">
-    <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100">
-  </div>
-  <div class="column">
-    <img src="./pictures/python.svg" alt="Python" width="100">
-  </div>
-</div>
-
-
 <div class="container">
  <img src="./pictures/julia.svg" alt="Julia" width="130">
  <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100">
