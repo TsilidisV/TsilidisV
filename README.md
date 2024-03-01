@@ -9,6 +9,26 @@ My name is Vasilis Tsilidis and I'm a PhD student at the [Department of Mathemat
     <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100"/>
     <img src="./pictures/python.svg" alt="Python" width="100"/>
 </p>
+
+
+ <div class="row">
+  <div class="column">
+    <img src="./pictures/julia.svg" alt="Julia" width="100">
+  </div>
+  <div class="column">
+    <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100">
+  </div>
+  <div class="column">
+    <img src="./pictures/python.svg" alt="Python" width="100">
+  </div>
+</div>
+
+
+<div class="container">
+ <img src="./pictures/julia.svg" alt="Julia" width="100">
+ <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100">
+ <img src="./pictures/python.svg" alt="Python" width="100">
+</div>
 <!--
 **TsilidisV/TsilidisV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
