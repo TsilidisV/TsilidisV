@@ -13,10 +13,10 @@ My name is Vasilis and I'm a PhD student at the [Department of Mathematics, Univ
 <br/><br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TsilidisV&layout=compact&langs_count=8&theme=jolly&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TsilidisV&layout=compact&langs_count=8&theme=jolly&card_width=355" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TsilidisV&theme=jolly&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TsilidisV&theme=jolly&card_width=300" />
 </a>
 
 
