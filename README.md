@@ -13,11 +13,12 @@ My name is Vasilis and I'm a PhD student at the [Department of Mathematics, Univ
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsilidisV&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TsilidisV&repo=github-readme-stats&theme=jolly" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TsilidisV&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TsilidisV&repo=convoychat&theme=jolly" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TsilidisV&layout=compact&langs_count=8&card_width=320&theme=jolly" />
 </a>
+
 
 <!--
 **TsilidisV/TsilidisV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
