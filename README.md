@@ -10,6 +10,10 @@ My name is Vasilis and I'm a PhD student at the [Department of Mathematics, Univ
  <img src="./pictures/python.svg" alt="Python" width="100">
 </div>
 
+p {
+   margin: 3cm 0;
+}
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TsilidisV&layout=compact&langs_count=8&theme=jolly&card_width=320" />
 </a>
