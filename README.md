@@ -16,7 +16,7 @@ My name is Vasilis and I'm a PhD student at the [Department of Mathematics, Univ
  <img src="./pictures/inkscape.svg" alt="Inkscape" width="100">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsilidisV)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsilidisV&hide_progress=true)
 
 <!--
 **TsilidisV/TsilidisV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
