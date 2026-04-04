@@ -5,9 +5,8 @@ My name is Vasilis and I'm a PhD student at the [Department of Mathematics, Univ
 
 ## Favourite languages to speak:
 <div class="container">
- <img src="./pictures/julia.svg" alt="Julia" width="130">
- <img src="./pictures/wolfram-language.svg" alt="Wolfram Language" width="100">
  <img src="./pictures/python.svg" alt="Python" width="100">
+ <img src="./pictures/julia.svg" alt="Julia" width="130">
 </div>
 
 <br/><br/>
