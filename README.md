@@ -1,6 +1,6 @@
 # Hello! 🪸
 
-My name is Vasilis and I'm a PhD student at the [Department of Mathematics, University of Patras](https://www.upatras.gr/en/)!
+My name is Vasilis and I'm a Doctoral Researcher at the [Department of Mathematics, University of Patras](https://www.upatras.gr/en/)!
 
 
 ## Favourite languages to speak:
